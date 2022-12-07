@@ -1,6 +1,5 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
-using NUnit.Framework.Internal.Execution;
 
 namespace AdventOfCode2022.Day06;
 
